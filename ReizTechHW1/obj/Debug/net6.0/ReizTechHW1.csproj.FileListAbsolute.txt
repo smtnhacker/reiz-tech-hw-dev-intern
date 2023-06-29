@@ -1,0 +1,15 @@
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\bin\Debug\net6.0\ReizTechHW1.exe
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\bin\Debug\net6.0\ReizTechHW1.deps.json
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\bin\Debug\net6.0\ReizTechHW1.runtimeconfig.json
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\bin\Debug\net6.0\ReizTechHW1.dll
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\bin\Debug\net6.0\ReizTechHW1.pdb
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\obj\Debug\net6.0\ReizTechHW1.csproj.AssemblyReference.cache
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\obj\Debug\net6.0\ReizTechHW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\obj\Debug\net6.0\ReizTechHW1.AssemblyInfoInputs.cache
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\obj\Debug\net6.0\ReizTechHW1.AssemblyInfo.cs
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\obj\Debug\net6.0\ReizTechHW1.csproj.CoreCompileInputs.cache
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\obj\Debug\net6.0\ReizTechHW1.dll
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\obj\Debug\net6.0\refint\ReizTechHW1.dll
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\obj\Debug\net6.0\ReizTechHW1.pdb
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\obj\Debug\net6.0\ReizTechHW1.genruntimeconfig.cache
+C:\Users\Miko\Documents\_Goals and Success\Programming\Job Applications\REIZ .NET Developer Intern\tech-homework\ReizTechHW1\obj\Debug\net6.0\ref\ReizTechHW1.dll
